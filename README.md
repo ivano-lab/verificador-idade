@@ -1,6 +1,9 @@
 # verificador-idade
 
+![](screenshot.png)
+
 Insira seu ano de nascimento e sua idade e descubra em qual período da vida você está.:+1:
+Não tem como dar errado. :sunglasses:
 
 ## Como executar o projeto :rocket:
 
